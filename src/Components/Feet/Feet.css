@@ -1,0 +1,23 @@
+.DivFeet{
+    display: flex;
+    background-color: gray;
+    height: 200px;   
+}
+
+.LogoJE {
+    display: flex;
+    justify-content:center;
+    align-items: end;
+}
+.LogoJE img {
+    width: 200px;
+}
+
+.LogoSocial {
+    display: flex;
+    margin-left: auto;
+}
+.LogoSocial img {
+    width: 40px;
+    height: 40px;
+}

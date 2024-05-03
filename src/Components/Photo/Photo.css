@@ -1,0 +1,14 @@
+.DivPhoto{
+    display: flex;
+    justify-content: center;
+}
+
+.CircularSmall {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.lineaSeparadora{
+    width: 290px;
+}
